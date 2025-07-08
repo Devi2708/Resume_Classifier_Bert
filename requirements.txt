@@ -5,3 +5,5 @@ pandas
 scikit-learn
 shap
 mlflow
+torch==2.2.2+cpu
+--index-url https://download.pytorch.org/whl/cpu
